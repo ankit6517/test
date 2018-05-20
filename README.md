@@ -5,3 +5,4 @@ Change made locally.
 Again changed.
 
 Testing pulling change
+Test fetch and merge.
